@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_round_event_note_24" android:id="@id/nav_home" android:title="События" android:fontFamily="@font/corerhino55mediumitalic" />
+    <item android:icon="@drawable/ic_outline_local_pizza_24" android:id="@id/nav_favorites" android:title="Заказы" android:fontFamily="@font/corerhino55mediumitalic" />
+    <item android:icon="@drawable/ic_outline_settings_24" android:id="@id/nav_search" android:title="Настройки" android:fontFamily="@font/corerhino55mediumitalic" />
+</menu>

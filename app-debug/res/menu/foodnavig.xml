@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/hot_food" android:title="Горячие блюда" android:fontFamily="@font/corerhino55mediumitalic" />
+    <item android:id="@id/deserts" android:title="Десерты" android:fontFamily="@font/corerhino55mediumitalic" />
+    <item android:id="@id/drinks" android:title="Напитки" android:fontFamily="@font/corerhino55mediumitalic" />
+</menu>
